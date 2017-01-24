@@ -8,7 +8,7 @@ resulting app contains a package.json file with all required dependencies and
 can be easily ported to your own servers or
 [Node.js PAAS providers](https://github.com/joyent/node/wiki/Node-Hosting).
 
-Note that version 3 of Demteorizer changes the output structure, which may cause
+Note that version 3 of Demeteorizer changes the output structure, which may cause
 issues depending on how/where you are deploying your application. With the new
 structure, the generated node application is available in
 `bundle/programs/server`.
